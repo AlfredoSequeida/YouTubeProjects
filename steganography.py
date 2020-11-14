@@ -1,3 +1,5 @@
+# watch the video for this project here: https://youtu.be/bZ88gnHzwz8
+
 from PIL import Image
 
 MAX_COLOR_VALUE = 256
