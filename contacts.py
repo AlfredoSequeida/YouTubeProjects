@@ -1,3 +1,4 @@
+# check out the video for this project here: https://youtu.be/0rByHLhpnuU
 from os import system
 
 # global var
